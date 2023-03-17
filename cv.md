@@ -1,5 +1,6 @@
 ## __Andrei Siniak__
 
+![мое фото](my_photo.gif)
 
 ---
 
